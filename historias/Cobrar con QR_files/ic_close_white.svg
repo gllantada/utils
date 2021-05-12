@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="ic_close_24" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:#f8f8f8;opacity:0}.cls-2{fill:#f8f8f8}
+        </style>
+    </defs>
+    <path id="Rectangle" d="M0 0h24v24H0z" class="cls-1"/>
+    <path id="Path" d="M1104.414 289.5l5.5-5.5a1 1 0 0 0-1.414-1.414l-5.5 5.5-5.5-5.5a1 1 0 0 0-1.414 1.414l5.5 5.5-5.5 5.5a1 1 0 1 0 1.414 1.414l5.5-5.5 5.5 5.5a1 1 0 0 0 1.414-1.414z" class="cls-2" transform="translate(-1090.793 -277.292)"/>
+</svg>

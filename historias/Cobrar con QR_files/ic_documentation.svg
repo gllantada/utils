@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__ic_documentation_24" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#c0dbf3}
+        </style>
+    </defs>
+    <path id="prefix__Rectángulo_1141" d="M0 0H24V24H0z" data-name="Rectángulo 1141" style="fill:none"/>
+    <g id="prefix__Grupo_1890" data-name="Grupo 1890" transform="translate(-24 -672)">
+        <path id="prefix__Trazado_6848" d="M43.855 679.855l-5.71-5.71a.5.5 0 0 0-.35-.145H30a2 2 0 0 0-1.99 2L28 692a2 2 0 0 0 1.99 2H42a2.006 2.006 0 0 0 2-2v-11.795a.5.5 0 0 0-.145-.35zM42 691.5a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-15a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 .5.5v4a.5.5 0 0 0 .5.5h4a.5.5 0 0 1 .5.5z" class="prefix__cls-2" data-name="Trazado 6848"/>
+        <path id="prefix__Trazado_6849" d="M32.5 680.273h2.178a.5.5 0 0 0 0-1H32.5a.5.5 0 0 0 0 1z" class="prefix__cls-2" data-name="Trazado 6849"/>
+        <path id="prefix__Trazado_6850" d="M39.322 682.273H32.5a.5.5 0 0 0 0 1h6.818a.5.5 0 0 0 0-1z" class="prefix__cls-2" data-name="Trazado 6850"/>
+        <path id="prefix__Trazado_6851" d="M39.322 685.273H32.5a.5.5 0 0 0 0 1h6.818a.5.5 0 0 0 0-1z" class="prefix__cls-2" data-name="Trazado 6851"/>
+        <path id="prefix__Trazado_6852" d="M39.322 688.273H32.5a.5.5 0 0 0 0 1h6.818a.5.5 0 0 0 0-1z" class="prefix__cls-2" data-name="Trazado 6852"/>
+    </g>
+</svg>

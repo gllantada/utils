@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="ic_transactions_24" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#c0dbf3}
+        </style>
+    </defs>
+    <g id="Grupo_13" data-name="Grupo 13" transform="translate(-24 -480)">
+        <path id="Rectángulo_1128" d="M0 0h24v24H0z" class="cls-1 logoNav" data-name="Rectángulo 1128" transform="translate(24 480)"/>
+    </g>
+    <g id="Grupo_14" data-name="Grupo 14" transform="translate(-24 -480)">
+        <path id="Trazado_6839" d="M31.676 490.62a1 1 0 0 0 1.415-1.414l-1.291-1.292h9.541a1 1 0 0 0 0-2H31.8l1.293-1.294a1 1 0 1 0-1.414-1.414l-2.906 2.907a.959.959 0 0 0 0 1.6z" class="cls-2" data-name="Trazado 6839"/>
+        <path id="Trazado_6840" d="M43.341 496.911a.984.984 0 0 0-.431-.8l-2.9-2.9a1 1 0 1 0-1.414 1.414l1.291 1.291h-9.546a1 1 0 0 0 0 2h9.542l-1.294 1.295A1 1 0 0 0 40 500.62l2.907-2.909a.982.982 0 0 0 .434-.8z" class="cls-2" data-name="Trazado 6840"/>
+    </g>
+</svg>
